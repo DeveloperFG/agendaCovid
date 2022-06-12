@@ -1,0 +1,50 @@
+body{
+    background-image: url(src/c19.jpg);
+    text-align: center;
+    
+    
+     
+} 
+
+h1{
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    background-color: burlywood;
+    text-align: center;
+}
+
+p{
+    color: #F4A460;
+
+}
+
+div{
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    color: yellow;
+
+}
+
+details{
+   align-items: flex-start;
+
+}
+
+summary{
+    color: #fff;
+    font-size: 20px;
+
+}
+
+p#pag{
+    text-align: center;
+    font-size: 40px;
+}
+
+a{
+    color: aqua;
+}
+
+
